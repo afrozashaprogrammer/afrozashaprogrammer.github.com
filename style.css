@@ -1,0 +1,88 @@
+.header.header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: black;
+}
+
+.header h2 {
+    font-family: Outfit;
+    font-size: 35px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.home {
+    background: black;
+}
+.about-header .btn.btn-primary {
+    background: #262626;
+    border-color: #fff;
+    border-radius: 35px;
+    font-size: 15px;
+    padding: 5px 30px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.home-name h1 {
+    font-family: roboto;
+    font-size: 90px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    color: #fff;
+}
+
+.about {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: #000;
+}
+
+.about-titel h3 {
+    color: #fff;
+    font-family: serif;
+}
+
+p {
+    color: #fff;
+}
+
+.details p {
+    margin-bottom: 77px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.banner-img img {
+    border-radius: 180px;
+}
+
+.details h3 {
+    color: #fff;
+    font-family: serif;
+    
+}
+
+.whatdo {
+    background: #000;
+}
+
+.whatdo h2 {
+    color: #fff;
+}
+.whatdo h1 {
+    color: #fff;
+}
+.whatdo h5 {
+    color: #fff;
+    line-height: 43px;
+}
+.secton1{
+    text-align: start;
+}
+.secton2{
+    text-align: start;
+}
+.secton3{
+    text-align: start;
+}
